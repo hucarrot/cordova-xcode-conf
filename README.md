@@ -1,2 +1,1 @@
-# cordova-xcode-conf
-Cordova配置Xcode
+设置Cordova的Xcode配置
