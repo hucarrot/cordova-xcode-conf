@@ -21,7 +21,7 @@ description: Cordova Xcode Config.
 #         under the License.
 -->
 
-# cordova-xcode-conf
+# youlove-plugin-xcode-conf
 
 This plugin provides setting Xcode default region to zh_CN and else.
 
@@ -29,7 +29,7 @@ This plugin provides setting Xcode default region to zh_CN and else.
 
 This requires cordova 5.0+
 
-    cordova plugin add https://github.com/hucarrot/cordova-youlove-xcode-conf.git
+    cordova plugin add https://github.com/hucarrot/youlove-plugin-xcode-conf.git
 
 ## Supported Platforms
 
