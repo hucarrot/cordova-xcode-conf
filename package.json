@@ -1,16 +1,16 @@
 {
-  "name": "cordova-youlove-xcode-conf",
-  "version": "0.0.1",
+  "name": "youlove-plugin-xcode-conf",
+  "version": "1.0.0",
   "description": "Cordova Xcode Config",
   "cordova": {
-    "id": "cordova-youlove-xcode-conf",
+    "id": "youlove-plugin-xcode-conf",
     "platforms": [
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hucarrot/cordova-youlove-xcode-conf"
+    "url": "https://github.com/hucarrot/youlove-plugin-xcode-conf"
   },
   "author": "Apache Software Foundation",
   "license": "Apache-2.0"

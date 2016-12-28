@@ -20,15 +20,15 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-youlove-xcode-conf"
-        version="0.0.1">
+        id="youlove-plugin-xcode-conf"
+        version="1.0.0">
 
     <name>XcodeConf</name>
     <description>Cordova xcode config</description>
     <license>Apache 2.0</license>
     <keywords>cordova,xcode,conf</keywords>
-    <repo>https://github.com/hucarrot/cordova-youlove-xcode-conf.git</repo>
-    <issue>https://github.com/hucarrot/cordova-youlove-xcode-conf/issues</issue>
+    <repo>https://github.com/hucarrot/youlove-plugin-xcode-conf.git</repo>
+    <issue>https://github.com/hucarrot/youlove-plugin-xcode-conf/issues</issue>
 
     <!-- ios -->
     <platform name="ios">
