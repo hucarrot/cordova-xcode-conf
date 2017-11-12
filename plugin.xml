@@ -67,6 +67,14 @@
         <config-file target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
             <string/>
         </config-file>
+      
+        <!-- ios  iOS9之后需要设置 . 解除https的限制 -->
+        <config-file target="*-Info.plist" parent="NSAppTransportSecurity">
+            <dict>
+                <key>NSAllowsArbitraryLoads</key>
+                <true/>
+            </dict>
+        </config-file>
 
     </platform>
 
